@@ -62,7 +62,7 @@
 
 .logos-slide {
     display: inline-block;
-    /* animation: slide 35s linear infinite; */
+    animation: slide 35s linear infinite;
 }
 
 @keyframes slide {
